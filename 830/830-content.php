@@ -18,16 +18,16 @@ $url_path = str_replace('\\', '/', $url_path);
 			<div class="row item">
 				<div class="panel panel-primary filterable">
 						<div class="panel-heading">
-							<h3 class="panel-title">Cost Centers<span> *</span></h3>
+							<h3 class="panel-title">Cost Centers<span></span></h3>
 							<div class="pull-right">
 								<button type="button" class="btn btn-default btn-xs btn-filter"><span class="fa fa-filter"></span> Filter</button>
 							</div>
 						</div>
 
 						<table class="span12">
-							<table>
+							<table class="table table-bordered table-striped" style="list-style: none">
 								<tr class="filters">
-									<th>
+									<th  >
 										<div class="checkbox radio-margin">
 											<label>
 												<input type="checkbox" id="select_all"	>
@@ -37,32 +37,32 @@ $url_path = str_replace('\\', '/', $url_path);
 									</th>
 
 									<th style="width: 48%">
-										<input type="text" class="form-control" placeholder="Cost Center Name" disabled>
+										Cost Center Name
 									</th>
 
-									<th style="width: 48%">
-										<input type="text" class="form-control" placeholder="Cost Center ID" disabled>
+									<th style="width: 49.8%">
+										Cost Center ID
 									</th>
 								</tr>
 							</table>
 
 							<div class="bg tablescroll">
-								<table class="table table-bordered table-striped" style="list-style: none">
+								<table class="table table-bordered table-striped" style="list-style: none" >
 									<tr>
-										<th style="width: 4.1%; width:50px;">
+										<th style="width: 4%">
 											<div class="checkbox radio-margin">
 												<label>
-													<input class="checkbox" type="checkbox" name="check[]">
+													<input class="checkbox" type="checkbox" name="check[]" >
 													<span class="cr"><i class="cr-icon fa fa-check"></i></span>
 												</label>
 											</div>
 										</th>
-										<th style="width: 49.8%">BYU-I</th>
+										<th style="width: 48%">BYU-I</th>
 										<th style="width: 48%">542584612548</th>
 									</tr>
 
 									<tr>
-										<td style="width: 4.1%; width:50px;">
+										<td>
 											<div class="checkbox radio-margin">
 												<label>
 													<input class="checkbox" type="checkbox" name="check[]">
@@ -70,12 +70,12 @@ $url_path = str_replace('\\', '/', $url_path);
 												</label>
 											</div>
 										</td>
-										<td style="width: 48%">Timesheet</td>
-										<td style="width: 48%">652145875623</td>
+										<td >Timesheet</td>
+										<td >652145875623</td>
 									</tr>
 
 									<tr>
-										<td style="width: 4.1%; width:50px;">
+										<td >
 											<div class="checkbox radio-margin">
 												<label>
 													<input class="checkbox" type="checkbox" name="check[]">
@@ -83,12 +83,12 @@ $url_path = str_replace('\\', '/', $url_path);
 												</label>
 											</div>
 										</td>
-										<td style="width: 48%">Compro</td>
-										<td style="width: 48%">854785412563</td>
+										<td>Compro</td>
+										<td >854785412563</td>
 									</tr>
 
 									<tr>
-										<td style="width: 4.1%; width:50px;">
+										<td>
 											<div class="checkbox radio-margin">
 												<label>
 													<input class="checkbox" type="checkbox" name="check[]">
@@ -96,12 +96,12 @@ $url_path = str_replace('\\', '/', $url_path);
 												</label>
 											</div>
 										</td>
-										<td style="width: 48%">Compro</td>
-										<td style="width: 48%">854785412563</td>
+										<td >Compro</td>
+										<td >854785412563</td>
 									</tr>
 
 									<tr>
-										<td style="width: 4.1%; width:50px;">
+										<td >
 											<div class="checkbox radio-margin">
 												<label>
 													<input class="checkbox" type="checkbox" name="check[]">
@@ -109,12 +109,12 @@ $url_path = str_replace('\\', '/', $url_path);
 												</label>
 											</div>
 										</td>
-										<td style="width: 48%">Compro</td>
-										<td style="width: 48%">854785412563</td>
+										<td >Compro</td>
+										<td >854785412563</td>
 									</tr>
 
 									<tr>
-										<td style="width: 4.1%; width:50px;">
+										<td >
 											<div class="checkbox radio-margin">
 												<label>
 													<input class="checkbox" type="checkbox" name="check[]">
@@ -122,12 +122,12 @@ $url_path = str_replace('\\', '/', $url_path);
 												</label>
 											</div>
 										</td>
-										<td style="width: 48%">Compro</td>
-										<td style="width: 48%">854785412563</td>
+										<td >Compro</td>
+										<td >854785412563</td>
 									</tr>
 
 									<tr>
-										<td style="width: 4.1%; width:50px;">
+										<td >
 											<div class="checkbox radio-margin">
 												<label>
 													<input class="checkbox" type="checkbox" name="check[]">
@@ -135,12 +135,12 @@ $url_path = str_replace('\\', '/', $url_path);
 												</label>
 											</div>
 										</td>
-										<td style="width: 48%">Compro</td>
-										<td style="width: 48%">854785412563</td>
+										<td >Compro</td>
+										<td>854785412563</td>
 									</tr>
 
 									<tr>
-										<td style="width: 4.1%; width:50px;">
+										<td>
 											<div class="checkbox radio-margin">
 												<label>
 													<input class="checkbox" type="checkbox" name="check[]">
@@ -148,12 +148,12 @@ $url_path = str_replace('\\', '/', $url_path);
 												</label>
 											</div>
 										</td>
-										<td style="width: 48%">Compro</td>
-										<td style="width: 48%">854785412563</td>
+										<td >Compro</td>
+										<td >854785412563</td>
 									</tr>
 
 									<tr>
-										<td style="width: 4.1%; width:50px;">
+										<td>
 											<div class="checkbox radio-margin">
 												<label>
 													<input class="checkbox" type="checkbox" name="check[]">
@@ -161,12 +161,12 @@ $url_path = str_replace('\\', '/', $url_path);
 												</label>
 											</div>
 										</td>
-										<td style="width: 48%">Compro</td>
-										<td style="width: 48%">854785412563</td>
+										<td >Compro</td>
+										<td>854785412563</td>
 									</tr>
 
 									<tr>
-										<td style="width: 4.1%; width:50px;">
+										<td >
 											<div class="checkbox radio-margin">
 												<label>
 													<input class="checkbox" type="checkbox" name="check[]">
@@ -174,12 +174,12 @@ $url_path = str_replace('\\', '/', $url_path);
 												</label>
 											</div>
 										</td>
-										<td style="width: 48%">Compro</td>
-										<td style="width: 48%">854785412563</td>
+										<td>Compro</td>
+										<td >854785412563</td>
 									</tr>
 
 									<tr>
-										<td style="width: 4.1%; width:50px;">
+										<td >
 											<div class="checkbox radio-margin">
 												<label>
 													<input class="checkbox" type="checkbox" name="check[]">
@@ -187,8 +187,8 @@ $url_path = str_replace('\\', '/', $url_path);
 												</label>
 											</div>
 										</td>
-										<td style="width: 48%">Compro</td>
-										<td style="width: 48%">854785412563</td>
+										<td >Compro</td>
+										<td >854785412563</td>
 									</tr>
 								</table>
 							</div>
