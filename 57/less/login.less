@@ -1,0 +1,76 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 1, 2017, 7:46:06 AM
+    Author     : Administrator
+*/
+@text-decoration: none;
+@text-align: center;
+@color: #73879C;
+.login {
+    .title-login {
+        color: @color;
+        hr {
+            border-top: 1px solid #73879C;
+            margin-top: 40px;
+        }
+        h2 {
+            text-align: @text-align;
+        }
+        .login-form {
+            form {
+                margin: 15px 0;
+
+                .form-control {
+                    margin-bottom: 15px;
+                }
+            }
+            .functions {
+                text-align: center;
+                padding-top: 5px;
+                #btn-login, #link-lostpass {
+                    text-decoration: none;
+
+                }
+                #btn-login {
+                    padding: 7px 12px;
+                    background-color: #ffffff;
+                    border: 1px solid #ccc;
+                    color: #333;
+                    border-radius: 4px;
+                }
+                #btn-login:hover {
+                    background-color: #e6e6e6;
+                }
+                #link-lostpass {
+                    color: @color;
+                }
+            }
+
+        }
+        .login-footer {
+            text-align: @text-align;
+
+            p {
+                margin-top: 30px;
+                a {
+                    text-decoration: @text-decoration;
+                    color: @color;
+                }
+            }
+            h3 {
+                margin: 25px 0;
+                a.logo {
+                    text-decoration: @text-decoration;
+                    color: @color;
+                }
+            }
+            .footer {
+                margin: 0;
+            }
+        }
+    }
+}

@@ -1,0 +1,57 @@
+.login .title-login {
+  color: #73879C;
+}
+.login .title-login hr {
+  border-top: 1px solid #73879C;
+  margin-top: 40px;
+}
+.login .title-login h2 {
+  text-align: center;
+}
+.login .title-login .login-form form {
+  margin: 15px 0;
+}
+.login .title-login .login-form form .form-control {
+  margin-bottom: 15px;
+}
+.login .title-login .login-form .functions {
+  text-align: center;
+  padding-top: 5px;
+}
+.login .title-login .login-form .functions #btn-login,
+.login .title-login .login-form .functions #link-lostpass {
+  text-decoration: none;
+}
+.login .title-login .login-form .functions #btn-login {
+  padding: 7px 12px;
+  background-color: #ffffff;
+  border: 1px solid #ccc;
+  color: #333;
+  border-radius: 4px;
+}
+.login .title-login .login-form .functions #btn-login:hover {
+  background-color: #e6e6e6;
+}
+.login .title-login .login-form .functions #link-lostpass {
+  color: #73879C;
+}
+.login .title-login .login-footer {
+  text-align: center;
+}
+.login .title-login .login-footer p {
+  margin-top: 30px;
+}
+.login .title-login .login-footer p a {
+  text-decoration: none;
+  color: #73879C;
+}
+.login .title-login .login-footer h3 {
+  margin: 25px 0;
+}
+.login .title-login .login-footer h3 a.logo {
+  text-decoration: none;
+  color: #73879C;
+}
+.login .title-login .login-footer .footer {
+  margin: 0;
+}
