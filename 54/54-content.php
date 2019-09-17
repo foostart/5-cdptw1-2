@@ -1,23 +1,7 @@
 <!DOCTYPE html>
 
 <html>
-    <head>
-        <title>TODO supply a title</title>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="user-scalable=0, initial-scale=1.0">
-        <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-        <script src="js/jquery-2.1.4.min.js" type="text/javascript"></script>
-        <script src="js/bootstrap.min.js" type="text/javascript"></script>
-        <?php
-        if (!class_exists('lessc')) {
-            include ('./libs/lessc.inc.php');
-        }
-        $less = new lessc;
-        $less->compileFile('less/styles.less', 'css/styles.css');
-        ?>
-        <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
-        <link href="css/styles.css" rel="stylesheet" type="text/css"/>
-    </head>
+   
 
     <body>
         <div class="mod_custom_2">
@@ -36,11 +20,10 @@
                                 </tr>
                             </thead>
                             
-                                <tbody role="rowgroup">
+                            <tbody role="rowgroup" >
                                     <tr data-uid="899ed1c2-ca3a-47fc-97aa-e1ee8c62186c" class="projects-item">
-                                        <td class="projects-item-photo-container">
-                                            <a class="projects-item-photo" href="#" title="Three Oaks Apartment 3" style="background-image: url(images/1.jpg)"></a>
-                                        </td>
+                                        <td class="projects-item-photo-container" ><img src="../54/images/Capture.PNG" width="200" height="250"/></td>
+                            
                                         <td>
                                             <div class="projects-item-detail"> 
                                                 <h3>
@@ -51,7 +34,43 @@
                                                     <span><i class="fa fa-map-marker"></i> Lorem lorem</span>
                                                 </p>
                                                 <blockquote class="pull-left">
-                                                    <small>Lorem lorem</small>
+                                                    <small>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</small>
+                                                </blockquote>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    
+                                    <tr data-uid="899ed1c2-ca3a-47fc-97aa-e1ee8c62186c" class="projects-item">
+                                          <td class="projects-item-photo-container" ><img src="../54/images/Capture.PNG" width="200" height="250"/></td>
+                                        <td>
+                                            <div class="projects-item-detail"> 
+                                                <h3>
+                                                    <a href="#">Lorem </a>
+                                                </h3>
+                                                <p class="projects-item-info">
+                                                    <span><i class="fa fa-eye"></i> Lorem lorem </span> 
+                                                    <span><i class="fa fa-map-marker"></i> Lorem lorem</span>
+                                                </p>
+                                                <blockquote class="pull-left">
+                                                    <small>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</small>
+                                                </blockquote>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    
+                                    <tr data-uid="899ed1c2-ca3a-47fc-97aa-e1ee8c62186c" class="projects-item">
+                                         <td class="projects-item-photo-container" ><img src="../54/images/Capture.PNG" width="200" height="250"/></td>
+                                        <td>
+                                            <div class="projects-item-detail"> 
+                                                <h3>
+                                                    <a href="#">Lorem lorem</a>
+                                                </h3>
+                                                <p class="projects-item-info">
+                                                    <span><i class="fa fa-eye"></i> Lorem lorem</span> 
+                                                    <span><i class="fa fa-map-marker"></i> Lorem lorem</span>
+                                                </p>
+                                                <blockquote class="pull-left">
+                                                    <small>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</small>
                                                 </blockquote>
                                             </div>
                                         </td>

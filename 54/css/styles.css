@@ -29,6 +29,7 @@
   .mod_custom_2 .projects-item .projects-item-photo-container {
     padding: 15px;
     padding-left: 0;
+    background-image: url(../images/1.jpg);
   }
   .mod_custom_2 .col-sm-12 {
     float: left;
@@ -172,7 +173,7 @@
   vertical-align: top;
 }
 .mod_custom_2 .projects-item .projects-item-photo-container {
-  padding: 20px 30px 20px 0;
+  padding: 20px 30px 20px 30px;
 }
 .mod_custom_2 .project table tr:first-child td {
   padding-top: 0px;
