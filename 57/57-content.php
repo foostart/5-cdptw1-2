@@ -30,21 +30,19 @@
                     <div class="col-md-12">
                         <div class="title-login">
                             <div class="row">
-                                <div class="col-md-4">
-                                    <hr align="left"/> 
+                                <div class="col-md-4">     
                                 </div>
                                 <div class="col-md-4">
                                     <h2>Login Form</h2>
                                 </div>
-                                <div class="col-md-4">
-                                    <hr align="left"/> 
+                                <div class="col-md-4">       
                                 </div>
                                 <div class="clearfix"></div>
                                 <div class="col-md-12">
                                     <div class="login-form">
-                                        <form method="post" action="#">
-                                            <input type="text" name="username" class="form-control" placeholder="Username">
-                                            <input type="password" name="password" class="form-control" placeholder="Password">
+                                        <form method="post" action="#" name="flogin" method="post">
+                                            <input type="text" name="username" class="form-control" placeholder="Username" maxlength="100">
+                                            <input type="password" name="password" class="form-control" placeholder="Password"  maxlength="20">
                                         </form>
                                         <div class="functions">
                                             <div class="row">
@@ -74,5 +72,9 @@
                 </div>
             </div>
         </div>
+
+
+
+        
     </body>
 </html>
