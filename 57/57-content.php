@@ -16,19 +16,28 @@
                             <div class="col-md-12">
                                 <div class="login-form">
                                     <form action="#" name="flogin" method="post">
-                                        <input type="text" name="username" class="form-control" placeholder="Username"
-                                            maxlength="100">
-                                        <input type="password" name="password" class="form-control"
+                                         <div class="col-md-6">
+                                                 <input type="username" name="username" class="form-control"
+                                            placeholder="Username" maxlength="20">
+                                            </div>
+                                       
+                                   
+                                         <div class="col-md-6">
+                                                <input type="password" name="password" class="form-control"
                                             placeholder="Password" maxlength="20">
+                                            </div>
+                                        
                                     </form>
                                     <div class="functions">
                                         <div class="row">
-                                            <div class="col-md-6">
+                                            <div class="col-md-4"></div>
+                                            <div class="col-md-4">
                                                 <a href="#" id="btn-login">Login</a>
                                             </div>
-                                            <div class="col-md-6">
+                                            <div class="col-md-4    ">
                                                 <a href="#" id="link-lostpass">Lost your password?</a>
                                             </div>
+                                             
                                         </div>
                                     </div>
                                     <hr style="border-top: 1px solid #eee;">

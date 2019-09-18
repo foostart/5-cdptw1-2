@@ -25,7 +25,7 @@ $url_path = str_replace('\\', '/', $url_path);
 						</div>
 
 						<table class="span12">
-							<table class="table table-bordered table-striped" style="list-style: none">
+							<table class="table table-bordered table-striped" style="list-style: none" >
 								<tr class="filters">
 									<th  >
 										<div class="checkbox radio-margin">
@@ -49,16 +49,16 @@ $url_path = str_replace('\\', '/', $url_path);
 							<div class="bg tablescroll">
 								<table class="table table-bordered table-striped" style="list-style: none" >
 									<tr>
-										<th style="width: 4%">
+										<td style="width: 4%">
 											<div class="checkbox radio-margin">
 												<label>
 													<input class="checkbox" type="checkbox" name="check[]" >
 													<span class="cr"><i class="cr-icon fa fa-check"></i></span>
 												</label>
 											</div>
-										</th>
-										<th style="width: 48%">BYU-I</th>
-										<th style="width: 48%">542584612548</th>
+										</td>
+										<td style="width: 48%">BYU-I</td>
+										<td style="width: 48%">542584612548</td>
 									</tr>
 
 									<tr>

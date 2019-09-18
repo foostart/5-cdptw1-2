@@ -17,7 +17,7 @@
                             
                             <tbody  >
                                     <tr data-uid="899ed1c2-ca3a-47fc-97aa-e1ee8c62186c" class="projects-item">
-                                        <td class="projects-item-photo-container" ><img src="../54/images/Capture.PNG" width="200" alt="project" height="250"/></td>
+                                        <td class="projects-item-photo-container" ><img class="img" src="../54/images/Capture.PNG" width="200" alt="project" height="250"/></td>
                             
                                         <td>
                                             <div class="projects-item-detail"> 
@@ -36,7 +36,7 @@
                                     </tr>
                                     
                                     <tr data-uid="899ed1c2-ca3a-47fc-97aa-e1ee8c62186c" class="projects-item">
-                                          <td class="projects-item-photo-container" ><img src="../54/images/Capture.PNG" width="200" alt="project" height="250"/></td>
+                                          <td class="projects-item-photo-container" ><img class="img" src="../54/images/Capture.PNG" width="200" alt="project" height="250"/></td>
                                         <td>
                                             <div class="projects-item-detail"> 
                                                 <h3>
@@ -54,7 +54,7 @@
                                     </tr>
                                     
                                     <tr data-uid="899ed1c2-ca3a-47fc-97aa-e1ee8c62186c" class="projects-item">
-                                         <td class="projects-item-photo-container" ><img src="../54/images/Capture.PNG" width="200" alt="project" height="250"/></td>
+                                         <td class="projects-item-photo-container" ><img class="img" src="../54/images/Capture.PNG" width="200" alt="project" height="250"/></td>
                                         <td>
                                             <div class="projects-item-detail"> 
                                                 <h3>
@@ -83,10 +83,10 @@
                     <div class="header-page">
                         <h3>Top 10 projects</h3>
                     </div>
-                    <ul class="list-top-projects">
-                        <li>
+                    <ul class="list-top-projects" >
+                        <li >
                             <a class="top-project-image" href="#">
-                                <span class="photo first" style="background-image: url(images/2.jpg)">
+                                <span class="photo" style="background-image: url(images/2.jpg)">
                                     <span class="rank">1</span>
                                 </span>
                                 <h3>Saigon Pearl</h3>
@@ -94,7 +94,7 @@
                         </li>
                         <li>
                             <a class="top-project-image" href="#">
-                                <span class="photo second" style="background-image: url(images/3.jpg)">
+                                <span class="photo " style="background-image: url(images/3.jpg)">
                                     <span class="rank">2</span>
                                 </span>
                                 <h3>Tropic Garden</h3>
@@ -102,7 +102,7 @@
                         </li>
                         <li>
                             <a class="top-project-image" href="#">
-                                <span class="photo third" style="background-image: url(images/4.jpg)">
+                                <span class="photo" style="background-image: url(images/4.jpg)">
                                     <span class="rank">3</span>
                                 </span>
                                 <h3>Sunrise City</h3>

@@ -5,16 +5,6 @@
   box-sizing: border-box;
   outline: none !important;
 }
-.mod_custom_2 .col-md-9,
-.mod_custom_2 .col-lg-9,
-.mod_custom_2 .col-xs-12,
-.mod_custom_2 .col-sm-12 {
-  position: relative;
-  min-height: 1px;
-  padding-left: 15px;
-  padding-right: 15px;
-  margin: 20px 0;
-}
 @media (max-width: 768px) {
   .mod_custom_2 .projects-item .projects-item-detail blockquote {
     padding: 5px 10px;
@@ -30,20 +20,6 @@
     padding: 15px;
     padding-left: 0;
     background-image: url(../images/1.jpg);
-  }
-  .mod_custom_2 .col-sm-12 {
-    float: left;
-    width: 100%;
-  }
-}
-@media (min-width: 992px) {
-  .mod_custom_2 .col-md-9 {
-    float: left;
-    width: 75%;
-  }
-  .mod_custom_2 .col-md-3 {
-    float: left;
-    width: 25%;
   }
 }
 .mod_custom_2 .k-widget {
@@ -175,6 +151,16 @@
 .mod_custom_2 .projects-item .projects-item-photo-container {
   padding: 20px 30px 20px 30px;
 }
+.mod_custom_2 .projects-item .projects-item-photo-container .img:hover {
+  opacity: 0.5;
+  color: #01667b;
+  text-decoration: none;
+  transition: all .3s ease-in-out;
+  -webkit-transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  -o-transition: all .3s ease-in-out;
+  -ms-transition: all .3s ease-in-out;
+}
 .mod_custom_2 .project table tr:first-child td {
   padding-top: 0px;
 }
@@ -263,13 +249,6 @@
   text-align: justify;
   width: 93%;
 }
-.mod_custom_2 .col-md-3,
-.mod_custom_2 .col-lg-3 {
-  position: relative;
-  min-height: 1px;
-  padding-left: 15px;
-  padding-right: 15px;
-}
 @media (min-width: 1200px) {
   .mod_custom_2 .col-lg-3 {
     float: left;
@@ -309,6 +288,16 @@
   height: 100%;
   float: left;
   width: 100%;
+}
+.mod_custom_2 .list-top-projects li a .photo:hover {
+  opacity: 0.1;
+  color: #01667b;
+  text-decoration: none;
+  transition: all .3s ease-in-out;
+  -webkit-transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  -o-transition: all .3s ease-in-out;
+  -ms-transition: all .3s ease-in-out;
 }
 .mod_custom_2 .list-top-projects li a .photo {
   display: inline-block;
