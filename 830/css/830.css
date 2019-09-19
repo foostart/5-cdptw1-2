@@ -107,6 +107,7 @@
   border-radius: .25em;
   width: 1.3em;
   height: 1.3em;
+  float: left;
   margin-right: .5em;
 }
 .type-830 .radio .cr {
@@ -119,7 +120,7 @@
   line-height: 0;
   top: 50%;
   left: 20%;
-  color: #333;
+  color: black;
 }
 .type-830 .checkbox label input[type="checkbox"],
 .type-830 .radio label input[type="radio"] {

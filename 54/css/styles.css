@@ -19,7 +19,6 @@
   .mod_custom_2 .projects-item .projects-item-photo-container {
     padding: 15px;
     padding-left: 0;
-    background-image: url(../images/1.jpg);
   }
 }
 .mod_custom_2 .k-widget {
@@ -182,9 +181,6 @@
   background-position: center;
   background-size: cover;
 }
-.mod_custom_2 element.style {
-  background-image: url(/Uploads/Projects/_thumbs/hoozing_74_da.jpg);
-}
 .mod_custom_2 .projects-item .projects-item-detail {
   padding-bottom: 20px;
 }
@@ -290,7 +286,7 @@
   width: 100%;
 }
 .mod_custom_2 .list-top-projects li a .photo:hover {
-  opacity: 0.1;
+  opacity: 0.5;
   color: #01667b;
   text-decoration: none;
   transition: all .3s ease-in-out;
@@ -306,9 +302,6 @@
   background-position: center;
   background-size: cover;
   float: left;
-}
-.mod_custom_2 element.style {
-  background-image: url('/Uploads/Projects/_thumbs/hoozing_1_saigon17.jpg');
 }
 .mod_custom_2 .list-top-projects li a .photo .rank {
   display: block;
