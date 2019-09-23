@@ -47,7 +47,7 @@
 
                 <div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1451053221961">
                     <div class="sc-service-box wpb_column vc_column_container col-sm-3 vc_col-has-fill">
-                        <div class="vc_column-inner vc_custom_1452516332056">
+                        <div class="">
                             <div class="wpb_wrapper">
                                 <div class="ult-just-icon-wrapper  ">
                                     <div class="align-icon" style="text-align:center;">
@@ -63,8 +63,8 @@
 
                                     <div class="col-md-3 col-sm-6 col-xs-12">
                                         <div class="" style="text-align:center">
-                                            <div class="fa fa-home">
-                                                <h2
+                                            <div class="fa fa-home lorem">
+                                                <h2 
                                                     style="font-family:'Raleway';font-weight:700;color:#2d2d2d;margin-top:15px;">
                                                     LOrem LOrem 1</h2>
                                             </div>
@@ -82,8 +82,8 @@
 
                                     <div class="col-md-3 col-sm-6 col-xs-12">
                                         <div class="" style="text-align:center">
-                                            <div class="fa fa-cloud">
-                                                <h2
+                                            <div class="fa fa-cloud lorem">
+                                                <h2 
                                                     style="font-family:'Raleway';font-weight:700;color:#2d2d2d;margin-top:15px;">
                                                     LOrem LOrem 2</h2>
                                             </div>
@@ -101,7 +101,7 @@
 
                                     <div class="col-md-3 col-sm-6 col-xs-12">
                                         <div class="" style="text-align:center">
-                                            <div class="fa fa-cloud">
+                                            <div class="fa fa-cloud lorem">
                                                 <h2
                                                     style="font-family:'Raleway';font-weight:700;color:#2d2d2d;margin-top:15px;">
                                                     LOrem LOrem 3</h2>
@@ -120,8 +120,8 @@
 
                                     <div class="col-md-3 col-sm-6 col-xs-12">
                                         <div class="" style="text-align:center">
-                                            <div class="fa fa-cloud">
-                                                <h2
+                                            <div class="fa fa-cloud lorem">
+                                                <h2 
                                                     style="font-family:'Raleway';font-weight:700;color:#2d2d2d;margin-top:15px;">
                                                     LOrem LOrem 4</h2>
                                             </div>
@@ -139,8 +139,8 @@
 
                                     <div class="col-md-3 col-sm-6 col-xs-12">
                                         <div class="" style="text-align:center">
-                                            <div class="fa fa-cloud">
-                                                <h2
+                                            <div class="fa fa-cloud lorem">
+                                                <h2 
                                                     style="font-family:'Raleway';font-weight:700;color:#2d2d2d;margin-top:15px;">
                                                     LOrem LOrem 5</h2>
                                             </div>
