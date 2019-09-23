@@ -52,13 +52,18 @@ $url_path = str_replace('\\', '/', $url_path);
 										<td style="width: 4%">
 											<div class="checkbox radio-margin">
 												<label>
-													<input class="checkbox" type="checkbox" name="check[]" >
+													<input class="checkbox" id="label01" type="checkbox" name="check[]" >
 													<span class="cr"><i class="cr-icon fa fa-check"></i></span>
 												</label>
 											</div>
 										</td>
-										<td style="width: 48%">BYU-I</td>
-										<td style="width: 48%">542584612548</td>
+                                                                                
+                                                                              
+                                                                                
+										<label for="label01"> <td>BYU-I</td> </label>
+                                                                                
+										<label for="label01"> <td style="width: 48%">542584612548</td> </label>
+                                                                                
 									</tr>
 
 									<tr>

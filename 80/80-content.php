@@ -61,13 +61,12 @@
                             <div class="container">
                                 <div class="row">
 
-
-                                    <div class="col-md-3">
+                                    <div class="col-md-3 col-sm-6 col-xs-12">
                                         <div class="" style="text-align:center">
-                                            <div class="fa fa-cloud">
+                                            <div class="fa fa-home">
                                                 <h2
                                                     style="font-family:'Raleway';font-weight:700;color:#2d2d2d;margin-top:15px;">
-                                                    LOrem</h2>
+                                                    LOrem LOrem 1</h2>
                                             </div>
                                             <div class="" style="margin-top:15px;margin-bottom:15px;height:5px;"><span
                                                     class="uvc-headings-line"
@@ -75,18 +74,18 @@
                                             </div>
                                             <div class=""
                                                 style="font-family:'Raleway';font-weight:normal;color:#2d2d2d;">
-                                                <p> LOrem</p>
+                                                <p> When you select 'Label splits' under 'Definitions' on the main menu, and then select 'Split Table', you'll see one of two screens. If you select 'Split Table' for the first time after installing QuickFill, you'll see a screen with a blank form for defining the label split table.</p>
                                             </div>
                                         </div>
                                     </div>
 
 
-                                    <div class="col-md-3">
+                                    <div class="col-md-3 col-sm-6 col-xs-12">
                                         <div class="" style="text-align:center">
                                             <div class="fa fa-cloud">
                                                 <h2
                                                     style="font-family:'Raleway';font-weight:700;color:#2d2d2d;margin-top:15px;">
-                                                    LOrem</h2>
+                                                    LOrem LOrem 2</h2>
                                             </div>
                                             <div class="" style="margin-top:15px;margin-bottom:15px;height:5px;"><span
                                                     class="uvc-headings-line"
@@ -94,18 +93,18 @@
                                             </div>
                                             <div class=""
                                                 style="font-family:'Raleway';font-weight:normal;color:#2d2d2d;">
-                                                <p> LOrem</p>
+                                                <p> When you select 'Label splits' under 'Definitions' on the main menu, and then select 'Split Table', you'll see one of two screens. If you select 'Split Table' for the first time after installing QuickFill, you'll see a screen with a blank form for defining the label split table.</p>
                                             </div>
                                         </div>
                                     </div>
 
 
-                                    <div class="col-md-3">
+                                    <div class="col-md-3 col-sm-6 col-xs-12">
                                         <div class="" style="text-align:center">
                                             <div class="fa fa-cloud">
                                                 <h2
                                                     style="font-family:'Raleway';font-weight:700;color:#2d2d2d;margin-top:15px;">
-                                                    LOrem</h2>
+                                                    LOrem LOrem 3</h2>
                                             </div>
                                             <div class="" style="margin-top:15px;margin-bottom:15px;height:5px;"><span
                                                     class="uvc-headings-line"
@@ -113,18 +112,18 @@
                                             </div>
                                             <div class=""
                                                 style="font-family:'Raleway';font-weight:normal;color:#2d2d2d;">
-                                                <p> LOrem</p>
+                                                <p> When you select 'Label splits' under 'Definitions' on the main menu, and then select 'Split Table', you'll see one of two screens. If you select 'Split Table' for the first time after installing QuickFill, you'll see a screen with a blank form for defining the label split table.</p>
                                             </div>
                                         </div>
                                     </div>
 
 
-                                    <div class="col-md-3">
+                                    <div class="col-md-3 col-sm-6 col-xs-12">
                                         <div class="" style="text-align:center">
                                             <div class="fa fa-cloud">
                                                 <h2
                                                     style="font-family:'Raleway';font-weight:700;color:#2d2d2d;margin-top:15px;">
-                                                    LOrem</h2>
+                                                    LOrem LOrem 4</h2>
                                             </div>
                                             <div class="" style="margin-top:15px;margin-bottom:15px;height:5px;"><span
                                                     class="uvc-headings-line"
@@ -132,18 +131,18 @@
                                             </div>
                                             <div class=""
                                                 style="font-family:'Raleway';font-weight:normal;color:#2d2d2d;">
-                                                <p> LOrem</p>
+                                                <p> When you select 'Label splits' under 'Definitions' on the main menu, and then select 'Split Table', you'll see one of two screens. If you select 'Split Table' for the first time after installing QuickFill, you'll see a screen with a blank form for defining the label split table.</p>
                                             </div>
                                         </div>
                                     </div>
 
 
-                                    <div class="col-md-3">
+                                    <div class="col-md-3 col-sm-6 col-xs-12">
                                         <div class="" style="text-align:center">
                                             <div class="fa fa-cloud">
                                                 <h2
                                                     style="font-family:'Raleway';font-weight:700;color:#2d2d2d;margin-top:15px;">
-                                                    LOrem</h2>
+                                                    LOrem LOrem 5</h2>
                                             </div>
                                             <div class="" style="margin-top:15px;margin-bottom:15px;height:5px;"><span
                                                     class="uvc-headings-line"
@@ -151,7 +150,7 @@
                                             </div>
                                             <div class=""
                                                 style="font-family:'Raleway';font-weight:normal;color:#2d2d2d;">
-                                                <p> LOrem</p>
+                                                <p> When you select 'Label splits' under 'Definitions' on the main menu, and then select 'Split Table', you'll see one of two screens. If you select 'Split Table' for the first time after installing QuickFill, you'll see a screen with a blank form for defining the label split table.</p>
                                             </div>
                                         </div>
                                     </div>

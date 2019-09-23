@@ -40,10 +40,12 @@
 }
 .login .title-login .login-footer p {
   margin-top: 30px;
+  cursor: pointer;
 }
 .login .title-login .login-footer p a {
   text-decoration: none;
   color: #73879C;
+  cursor: pointer;
 }
 .login .title-login .login-footer h3 {
   margin: 25px 0;

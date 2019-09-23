@@ -10,7 +10,7 @@
                                     <tr data-uid="899ed1c2-ca3a-47fc-97aa-e1ee8c62186c" class="projects-item">
                                         <td class="col-md-3 projects-item-photo-container" ><img class="img" src="../54/images/Capture.PNG"  width="200" alt="project" height="250"/></td>
 <!--                            -->
-                                        <td class="col-md-6">
+                                        <td class="col-md-6 text">
                                             <div class="projects-item-detail"> 
                                                 <h3>
                                                     <a href="#">Lorem lorem</a>
@@ -30,7 +30,7 @@
                                      <tr data-uid="899ed1c2-ca3a-47fc-97aa-e1ee8c62186c" class="projects-item">
                                         <td class="col-md-3 projects-item-photo-container" ><img class="img" src="../54/images/Capture.PNG"  width="200" alt="project" height="250"/></td>
 <!--                            -->
-                                        <td class="col-md-6">
+                                        <td class="col-md-6 text">
                                             <div class="projects-item-detail"> 
                                                 <h3>
                                                     <a href="#">Lorem lorem</a>
