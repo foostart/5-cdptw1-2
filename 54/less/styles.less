@@ -6,30 +6,14 @@
         box-sizing:border-box;
          outline: none!important;
     }
+    .col-md-9, .col-lg-9, .col-xs-12, .col-sm-12{
+        position: relative;
+        min-height: 1px;
+        padding-left: 15px;
+        padding-right: 15px;
+        margin: 20px 0;
+    }
    
-    @media (max-width: 768px){
-        .projects-item .projects-item-detail blockquote {
-            padding: 5px 10px;
-            max-height: 100px;
-            -moz-text-overflow: ellipsis;
-            text-overflow: ellipsis;
-            overflow: hidden;
-            
-        }
-        .projects-item .projects-item-photo {
-            width: 100px;
-            
-        }
-        .projects-item .projects-item-photo-container {
-            padding: 15px;
-            padding-left: 0;
-           
-        }
-       
-    }
-    @media (min-width: 992px){
-       
-    }
     .k-widget {
         border-style: solid;
         -webkit-appearance: none;
@@ -56,6 +40,29 @@
         border-spacing: 2px;
         background-color: transparent;
     } 
+    
+    .list-top-projects li a .photo:hover {
+        opacity: 0.75;
+        color: #01667b;
+        text-decoration: none;
+        transition:all .3s ease-in-out;
+        -webkit-transition:all .3s ease-in-out;
+        -moz-transition:all .3s ease-in-out;
+        -o-transition:all .3s ease-in-out;
+        -ms-transition:all .3s ease-in-out
+    }
+    .projects-item .projects-item-photo-container .img{
+        cursor: pointer;
+    }
+    .projects-item .text .projects-item-detail h3 a{
+        cursor: pointer;
+    }
+    .list-top-projects li a .photo .rank:hover{
+        color:  red;
+    }
+    .list-top-projects li a h3:hover{
+            color: blue;
+    }
     .k-grid table {
         width: 100%;
         margin: 0;
@@ -64,6 +71,9 @@
         border-spacing: 0;
         empty-cells: show;
         border-width: 0;
+    }
+    .projects-item .text .projects-item-detail h3 a:hover{
+        color: red;
     }
     colgroup {
         display: table-column-group;
@@ -140,6 +150,9 @@
     td {
         display: table-cell;
     }
+    .list-top-projects li a{
+        cursor: pointer;
+    }
     .k-grid td {
         border-style: solid;
         border-width: 0 0 0 1px;
@@ -157,28 +170,7 @@
         vertical-align: top;
     }
     .projects-item .projects-item-photo-container {
-        padding: 20px 30px 20px 30px;
-    }
-   
-    .projects-item .projects-item-photo-container .img:hover {
-        opacity: 0.75;
-        color: #01667b;
-        text-decoration: none;
-        transition:all .3s ease-in-out;
-        -webkit-transition:all .3s ease-in-out;
-        -moz-transition:all .3s ease-in-out;
-        -o-transition:all .3s ease-in-out;
-        -ms-transition:all .3s ease-in-out
-        
-    }
-    .projects-item .projects-item-photo-container .img{
-        cursor: pointer;
-    }
-    .projects-item .text .projects-item-detail h3 a{
-        cursor: pointer;
-    }
-    .projects-item .text .projects-item-detail h3 a:hover{
-        color: red;
+        padding: 20px 30px 20px 0;
     }
     .project table tr:first-child td {
         padding-top: 0px;
@@ -191,6 +183,18 @@
         color: #337ab7;
         text-decoration: none;
     }
+    
+    .projects-item .projects-item-photo-container .img:hover {
+        opacity: 0.75;
+        color: #01667b;
+        text-decoration: none;
+        transition:all .3s ease-in-out;
+        -webkit-transition:all .3s ease-in-out;
+        -moz-transition:all .3s ease-in-out;
+        -o-transition:all .3s ease-in-out;
+        -ms-transition:all .3s ease-in-out
+        
+    }
     .projects-item-photo {
         box-shadow: 0px 0px 5px #d3d3d3;
     }
@@ -202,7 +206,7 @@
         background-size: cover;
     }
     element.style {
-      
+        background-image: url(/Uploads/Projects/_thumbs/hoozing_74_da.jpg);
     }
     .projects-item .projects-item-detail {
         padding-bottom: 20px;
@@ -269,7 +273,12 @@
         text-align: justify;
         width: 93%;
     }
-    
+    .col-md-3, .col-lg-3{
+        position: relative;
+        min-height: 1px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
 
     @media (min-width: 1200px){
         .col-lg-3 {
@@ -311,25 +320,6 @@
         float: left;
         width: 100%;
     }
-    .list-top-projects li a .photo:hover {
-        opacity: 0.75;
-        color: #01667b;
-        text-decoration: none;
-        transition:all .3s ease-in-out;
-        -webkit-transition:all .3s ease-in-out;
-        -moz-transition:all .3s ease-in-out;
-        -o-transition:all .3s ease-in-out;
-        -ms-transition:all .3s ease-in-out
-    }
-    .list-top-projects li a .photo .rank:hover{
-        color:  red;
-    }
-    .list-top-projects li a h3:hover{
-            color: blue;
-    }
-    .list-top-projects li a{
-        cursor: pointer;
-    }
     .list-top-projects li a .photo {
         display: inline-block;
         width: 80px;
@@ -338,7 +328,10 @@
         background-size: cover;
         float: left;
     }
-    
+    element.style {
+        background-image: url('/Uploads/Projects/_thumbs/hoozing_1_saigon17.jpg');
+
+    }
     .list-top-projects li a .photo .rank {
         display: block;
         height: 100%;
@@ -369,3 +362,35 @@
         background: rgba(0,178,164,0.4);
     }
 }
+
+ @media (max-width: 768px){
+        .projects-item .projects-item-detail blockquote {
+            padding: 5px 10px;
+            max-height: 100px;
+            -moz-text-overflow: ellipsis;
+            text-overflow: ellipsis;
+            overflow: hidden;
+        }
+        .projects-item .projects-item-photo {
+            width: 100px;
+        }
+        .projects-item .projects-item-photo-container {
+            padding: 15px;
+            padding-left: 0;
+        }
+        .col-sm-12 {
+            float: left;
+            width:100%;
+        }
+        .projects-item .projects-item-photo-container .img{
+        height: 150px;
+        width: 200px;
+    }
+    }
+    @media (min-width: 1025px){
+        .projects-item .projects-item-photo-container .img{
+        height: 275px;
+        width: 300px;
+    }
+    }
+  

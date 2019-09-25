@@ -43,53 +43,6 @@
                                                 </li>
                                             </ul>
                                         </li>
-                                        <li class="panel panel-default">
-                                            <a data-toggle="collapse" data-parent="#collapsed" href="#nav-forms">
-                                                <i class="fa fa-edit"></i>
-                                                Forms
-                                                <i class="down fa fa-chevron-down"></i>
-                                            </a>
-                                            <ul class="nav child_menu collapse" id="nav-forms">
-                                                <li><a href="#">General Form</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="panel panel-default">
-                                            <a data-toggle="collapse" data-parent="#collapsed" href="#nav-ui">
-                                                <i class="fa fa-desktop"></i> UI Elements 
-                                                <i class="down fa fa-chevron-down"></i>
-                                            </a>
-                                            <ul class="nav child_menu collapse" id="nav-ui">
-                                                <li><a href="#">General Elements</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="panel panel-default">
-                                            <a data-toggle="collapse" data-parent="#collapsed" href="#nav-tables">
-                                                <i class="fa fa-table"></i> Tables
-                                                <i class="down fa fa-chevron-down"></i>
-                                            </a>
-                                            <ul class="nav child_menu collapse" id="nav-tables">
-                                                <li><a href="#">Tables</a></li>
-                                                <li><a href="#">Table Dynamic</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="panel panel-default">
-                                            <a data-toggle="collapse" data-parent="#collapsed" href="#nav-data">
-                                                <i class="fa fa-bar-chart-o"></i> Data Presentation
-                                                <i class="down fa fa-chevron-down"></i>
-                                            </a>
-                                            <ul class="nav child_menu collapse" id="nav-data">
-                                                <li><a href="#">Chart JS</a></li>
-                                               
-                                            </ul>
-                                        </li>
-                                        <li class="panel panel-default">
-                                            <a data-toggle="collapse" data-parent="#collapsed" href="#nav-layouts">
-                                                <i class="fa fa-clone"></i>Layouts
-                                            </a>
-                                            <ul class="nav child_menu collapse" id="nav-layouts">
-                                                <li><a href="#">Fixed Sidebar</a></li>
-                                            </ul>
-                                        </li>
                                         <h3 class="live-on">Live On</h3>
                                         <li class="panel panel-default">
                                             <a data-toggle="collapse" data-parent="#collapsed" href="#nav-pages">
@@ -99,36 +52,7 @@
                                             <ul class="nav child_menu collapse" id="nav-pages">
                                                 <li><a href="#">E-commerce</a></li>
                                             </ul>
-                                        </li>
-                                        <li class="panel panel-default">
-                                            <a data-toggle="collapse" data-parent="#collapsed" href="#nav-ex">
-                                                <i class="fa fa-windows"></i> Extras
-                                                <i class="down fa fa-chevron-down"></i>
-                                            </a>
-                                            <ul class="nav child_menu collapse" id="nav-ex">
-                                                <li><a href="#">403 Error</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="panel panel-default">
-                                            <a data-toggle="collapse" data-parent="#collapsed" href="#nav-multilevel">
-                                                <i class="fa fa-sitemap"></i> Multilevel Menu
-                                                <i class="down fa fa-chevron-down"></i>
-                                            </a>
-                                            <ul class="nav child_menu collapse" id="nav-multilevel">
-                                                <li>
-                                                    <a href="#level1_1">Level One</a>
-                                                </li>
-                                                <li>
-                                                    <a data-toggle="collapse" href="#nav-levelOne">
-                                                        Level One<span class="fa fa-chevron-down"></span>
-                                                    </a>
-                                                    <ul class="nav child_menu collapse" id="nav-levelOne">
-                                                        <li><a href="#">Level Two</a></li>
-                                                    </ul>
-                                                </li>
-                                                <li><a href="#">Level One</a></li>
-                                            </ul>
-                                        </li>                  
+                                        </li>       
                                         <li>
                                             <a href="#">
                                                 <i class="fa fa-laptop"></i> Landing Page 
@@ -177,73 +101,12 @@
 
                                         </ul>
                                     </li>
-
-                                    <li class="dropdown">
-                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                                            <i class="fa fa-edit"></i><h5>Form</h5>
-                                        </a>
-                                        <ul class="dropdown-menu">
-                                            <li><a href="#">General Form</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="dropdown">
-                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                                            <i class="fa fa-laptop"></i><h5>UI Elements</h5>
-                                        </a>
-                                        <ul class="dropdown-menu">
-                                            <li><a href="#">General Elements</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="dropdown">
-                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                                            <i class="fa fa-table"></i><h5>Tables</h5>
-                                        </a>
-                                        <ul class="dropdown-menu">
-                                            <li><a href="#">Tables</a></li>
-                                            <li><a href="#">Table Dynamic</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="dropdown">
-                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                                            <i class="fa fa-bar-chart-o"></i><h5>Data Present</h5>
-                                        </a>
-                                        <ul class="dropdown-menu">
-                                            <li><a href="#">Chart JS</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="dropdown">
-                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                                            <i class="fa fa-clone"></i><h5>Layouts</h5>
-                                        </a>
-                                        <ul class="dropdown-menu">
-                                            <li><a href="#">Fixed Sidebar</a></li>
-                                        </ul>
-                                    </li>
                                     <li class="dropdown">
                                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                                             <i class="fa fa-bug"></i><h5>Additional Pages</h5>
                                         </a>
                                         <ul class="dropdown-menu">
                                             <li><a href="#">E-commerce</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="dropdown">
-                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                                            <i class="fa fa-windows"></i><h5>Extras</h5>
-                                        </a>
-                                        <ul class="dropdown-menu">
-                                            <li><a href="#">403 Error</a></li>
-                                           
-                                        </ul>
-                                    </li>
-                                    <li class="dropdown">
-                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                                            <i class="fa fa-sitemap"></i><h5>Mullevel Menu</h5>
-                                        </a>
-                                        <ul class="dropdown-menu">
-                                            <li><a href="#">Level One</a></li>
-                                            <li><a href="#">Level One</a></li>
-                                            <li><a href="#">Level One</a></li>
                                         </ul>
                                     </li>
                                     <li class="dropdown">

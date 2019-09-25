@@ -5,21 +5,15 @@
   box-sizing: border-box;
   outline: none !important;
 }
-@media (max-width: 768px) {
-  .mod_custom_2 .projects-item .projects-item-detail blockquote {
-    padding: 5px 10px;
-    max-height: 100px;
-    -moz-text-overflow: ellipsis;
-    text-overflow: ellipsis;
-    overflow: hidden;
-  }
-  .mod_custom_2 .projects-item .projects-item-photo {
-    width: 100px;
-  }
-  .mod_custom_2 .projects-item .projects-item-photo-container {
-    padding: 15px;
-    padding-left: 0;
-  }
+.mod_custom_2 .col-md-9,
+.mod_custom_2 .col-lg-9,
+.mod_custom_2 .col-xs-12,
+.mod_custom_2 .col-sm-12 {
+  position: relative;
+  min-height: 1px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 20px 0;
 }
 .mod_custom_2 .k-widget {
   border-style: solid;
@@ -47,6 +41,28 @@
   border-spacing: 2px;
   background-color: transparent;
 }
+.mod_custom_2 .list-top-projects li a .photo:hover {
+  opacity: 0.75;
+  color: #01667b;
+  text-decoration: none;
+  transition: all .3s ease-in-out;
+  -webkit-transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  -o-transition: all .3s ease-in-out;
+  -ms-transition: all .3s ease-in-out;
+}
+.mod_custom_2 .projects-item .projects-item-photo-container .img {
+  cursor: pointer;
+}
+.mod_custom_2 .projects-item .text .projects-item-detail h3 a {
+  cursor: pointer;
+}
+.mod_custom_2 .list-top-projects li a .photo .rank:hover {
+  color: red;
+}
+.mod_custom_2 .list-top-projects li a h3:hover {
+  color: blue;
+}
 .mod_custom_2 .k-grid table {
   width: 100%;
   margin: 0;
@@ -55,6 +71,9 @@
   border-spacing: 0;
   empty-cells: show;
   border-width: 0;
+}
+.mod_custom_2 .projects-item .text .projects-item-detail h3 a:hover {
+  color: red;
 }
 .mod_custom_2 colgroup {
   display: table-column-group;
@@ -131,6 +150,9 @@
 .mod_custom_2 td {
   display: table-cell;
 }
+.mod_custom_2 .list-top-projects li a {
+  cursor: pointer;
+}
 .mod_custom_2 .k-grid td {
   border-style: solid;
   border-width: 0 0 0 1px;
@@ -148,26 +170,7 @@
   vertical-align: top;
 }
 .mod_custom_2 .projects-item .projects-item-photo-container {
-  padding: 20px 30px 20px 30px;
-}
-.mod_custom_2 .projects-item .projects-item-photo-container .img:hover {
-  opacity: 0.75;
-  color: #01667b;
-  text-decoration: none;
-  transition: all .3s ease-in-out;
-  -webkit-transition: all .3s ease-in-out;
-  -moz-transition: all .3s ease-in-out;
-  -o-transition: all .3s ease-in-out;
-  -ms-transition: all .3s ease-in-out;
-}
-.mod_custom_2 .projects-item .projects-item-photo-container .img {
-  cursor: pointer;
-}
-.mod_custom_2 .projects-item .text .projects-item-detail h3 a {
-  cursor: pointer;
-}
-.mod_custom_2 .projects-item .text .projects-item-detail h3 a:hover {
-  color: red;
+  padding: 20px 30px 20px 0;
 }
 .mod_custom_2 .project table tr:first-child td {
   padding-top: 0px;
@@ -180,6 +183,16 @@
   color: #337ab7;
   text-decoration: none;
 }
+.mod_custom_2 .projects-item .projects-item-photo-container .img:hover {
+  opacity: 0.75;
+  color: #01667b;
+  text-decoration: none;
+  transition: all .3s ease-in-out;
+  -webkit-transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  -o-transition: all .3s ease-in-out;
+  -ms-transition: all .3s ease-in-out;
+}
 .mod_custom_2 .projects-item-photo {
   box-shadow: 0px 0px 5px #d3d3d3;
 }
@@ -189,6 +202,9 @@
   height: 100%;
   background-position: center;
   background-size: cover;
+}
+.mod_custom_2 element.style {
+  background-image: url(/Uploads/Projects/_thumbs/hoozing_74_da.jpg);
 }
 .mod_custom_2 .projects-item .projects-item-detail {
   padding-bottom: 20px;
@@ -254,6 +270,13 @@
   text-align: justify;
   width: 93%;
 }
+.mod_custom_2 .col-md-3,
+.mod_custom_2 .col-lg-3 {
+  position: relative;
+  min-height: 1px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
 @media (min-width: 1200px) {
   .mod_custom_2 .col-lg-3 {
     float: left;
@@ -294,25 +317,6 @@
   float: left;
   width: 100%;
 }
-.mod_custom_2 .list-top-projects li a .photo:hover {
-  opacity: 0.75;
-  color: #01667b;
-  text-decoration: none;
-  transition: all .3s ease-in-out;
-  -webkit-transition: all .3s ease-in-out;
-  -moz-transition: all .3s ease-in-out;
-  -o-transition: all .3s ease-in-out;
-  -ms-transition: all .3s ease-in-out;
-}
-.mod_custom_2 .list-top-projects li a .photo .rank:hover {
-  color: red;
-}
-.mod_custom_2 .list-top-projects li a h3:hover {
-  color: blue;
-}
-.mod_custom_2 .list-top-projects li a {
-  cursor: pointer;
-}
 .mod_custom_2 .list-top-projects li a .photo {
   display: inline-block;
   width: 80px;
@@ -320,6 +324,9 @@
   background-position: center;
   background-size: cover;
   float: left;
+}
+.mod_custom_2 element.style {
+  background-image: url('/Uploads/Projects/_thumbs/hoozing_1_saigon17.jpg');
 }
 .mod_custom_2 .list-top-projects li a .photo .rank {
   display: block;
@@ -349,4 +356,34 @@
 }
 .mod_custom_2 .list-top-projects li a .third .rank {
   background: rgba(0,178,164,0.4);
+}
+@media (max-width: 768px) {
+  .projects-item .projects-item-detail blockquote {
+    padding: 5px 10px;
+    max-height: 100px;
+    -moz-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+    overflow: hidden;
+  }
+  .projects-item .projects-item-photo {
+    width: 100px;
+  }
+  .projects-item .projects-item-photo-container {
+    padding: 15px;
+    padding-left: 0;
+  }
+  .col-sm-12 {
+    float: left;
+    width: 100%;
+  }
+  .projects-item .projects-item-photo-container .img {
+    height: 150px;
+    width: 200px;
+  }
+}
+@media (min-width: 1025px) {
+  .projects-item .projects-item-photo-container .img {
+    height: 275px;
+    width: 300px;
+  }
 }

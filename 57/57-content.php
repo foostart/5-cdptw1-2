@@ -42,7 +42,8 @@
                                         <form action="#" name="flogin" method="post" class="col-md-4 col-sm-3 col-xs-1"></form>
                                             <div>
                                                 <a href="#" id="btn-login">Login</a>
-                                            </div>
+                                            </div><br>
+                                        
                                             <div>
                                                 <a href="#" id="link-lostpass">Lost your password?</a>
                                             </div>

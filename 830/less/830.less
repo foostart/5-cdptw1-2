@@ -1,8 +1,6 @@
 
 
-td{
-    cursor: pointer;
-}
+
 
 .type-830{
 	.item{
@@ -22,12 +20,22 @@ td{
 	.creatediv1{
 		margin-top: 5px;
 		margin-bottom: 5px;
+                .item {
+                    .panel {
+                        .span12{
+                            .span13{
+                                .span14{
+                                    .pointed{
+                                        cursor: pointer;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
 	}
 	.filterable {
 	    margin-top: 15px;
-	}
-	span{
-		color: white; font-weight: bold;
 	}
 	.filterable .panel-heading .pull-right {
 	    margin-top: -20px;
@@ -144,9 +152,10 @@ td{
 	    opacity: .5;
 	}
 
-	@media (max-width: 472px){
+	
+}
+@media (max-width: 472px){
 		h2{
 			display:none;
 		}
 	}
-}
