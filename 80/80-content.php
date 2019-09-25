@@ -63,7 +63,7 @@
 
                                     <div class="col-md-3 col-sm-6 col-xs-12">
                                         <div class="" style="text-align:center">
-                                            <div class="fa fa-home lorem">
+                                            <div class="fa fa-home fa-4x lorem">
                                                 <h2 
                                                     style="font-family:'Raleway';font-weight:700;color:#2d2d2d;margin-top:15px;">
                                                     LOrem LOrem 1</h2>
@@ -82,7 +82,7 @@
 
                                     <div class="col-md-3 col-sm-6 col-xs-12">
                                         <div class="" style="text-align:center">
-                                            <div class="fa fa-cloud lorem">
+                                            <div class="fa fa-cloud fa-4x lorem">
                                                 <h2 
                                                     style="font-family:'Raleway';font-weight:700;color:#2d2d2d;margin-top:15px;">
                                                     LOrem LOrem 2</h2>
@@ -101,7 +101,7 @@
 
                                     <div class="col-md-3 col-sm-6 col-xs-12">
                                         <div class="" style="text-align:center">
-                                            <div class="fa fa-cloud lorem">
+                                            <div class="fa fa-camera-retro fa-4x lorem">
                                                 <h2
                                                     style="font-family:'Raleway';font-weight:700;color:#2d2d2d;margin-top:15px;">
                                                     LOrem LOrem 3</h2>
@@ -120,7 +120,7 @@
 
                                     <div class="col-md-3 col-sm-6 col-xs-12">
                                         <div class="" style="text-align:center">
-                                            <div class="fa fa-cloud lorem">
+                                            <div class="fa fa-book fa-4x lorem">
                                                 <h2 
                                                     style="font-family:'Raleway';font-weight:700;color:#2d2d2d;margin-top:15px;">
                                                     LOrem LOrem 4</h2>
@@ -139,7 +139,7 @@
 
                                     <div class="col-md-3 col-sm-6 col-xs-12">
                                         <div class="" style="text-align:center">
-                                            <div class="fa fa-cloud lorem">
+                                            <div class="fa fa-cog fa-4x lorem">
                                                 <h2 
                                                     style="font-family:'Raleway';font-weight:700;color:#2d2d2d;margin-top:15px;">
                                                     LOrem LOrem 5</h2>

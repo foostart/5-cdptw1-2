@@ -10,6 +10,14 @@ and open the template in the editor.
 @text-decoration: none;
 @text-align: center;
 @color: #73879C;
+
+a:hover{
+    color: #333;
+}
+a{
+    cursor: pointer;
+}
+
 .login {
     .title-login {
         color: @color;
@@ -53,7 +61,7 @@ and open the template in the editor.
         }
         .login-footer {
             text-align: @text-align;
-
+            
             p {
                 margin-top: 30px;
                 cursor: pointer;
@@ -62,12 +70,23 @@ and open the template in the editor.
                     color: @color;
                     cursor: pointer;
                 }
+                a:hover{
+                    color: #333;
+                }
+                
             }
+            p:hover{
+                color: #333;
+            }
+          
             h3 {
                 margin: 25px 0;
                 a.logo {
                     text-decoration: @text-decoration;
                     color: @color;
+                }
+                .logo:hover{
+                    color: #333;
                 }
             }
             .footer {

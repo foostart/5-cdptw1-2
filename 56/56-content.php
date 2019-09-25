@@ -154,7 +154,7 @@
                                         </li>
                                         <li class="dropdown">
                                             <a class="dropdown-toggle info-number" data-toggle="dropdown">
-                                                <i class="fa fa-envelope-o"></i>
+                                                <i class="icon fa fa-envelope-o"></i>
                                                 <span class="badge">6</span>
                                             </a>
 

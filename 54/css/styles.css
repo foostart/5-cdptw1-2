@@ -42,7 +42,7 @@
   background-color: transparent;
 }
 .mod_custom_2 .list-top-projects li a .photo:hover {
-  opacity: 0.75;
+  opacity: 0.7;
   color: #01667b;
   text-decoration: none;
   transition: all .3s ease-in-out;
@@ -58,10 +58,10 @@
   cursor: pointer;
 }
 .mod_custom_2 .list-top-projects li a .photo .rank:hover {
-  color: red;
+  color: #737b01;
 }
 .mod_custom_2 .list-top-projects li a h3:hover {
-  color: blue;
+  color: #0044ff86;
 }
 .mod_custom_2 .k-grid table {
   width: 100%;
@@ -73,7 +73,7 @@
   border-width: 0;
 }
 .mod_custom_2 .projects-item .text .projects-item-detail h3 a:hover {
-  color: red;
+  color: #0044ff86;
 }
 .mod_custom_2 colgroup {
   display: table-column-group;
@@ -184,7 +184,7 @@
   text-decoration: none;
 }
 .mod_custom_2 .projects-item .projects-item-photo-container .img:hover {
-  opacity: 0.75;
+  opacity: 0.7;
   color: #01667b;
   text-decoration: none;
   transition: all .3s ease-in-out;
@@ -386,4 +386,13 @@
     height: 275px;
     width: 300px;
   }
+}
+.icon:hover {
+  color: red;
+}
+.wath:hover {
+  color: #01667b;
+}
+.projects-item-info {
+  cursor: pointer;
 }

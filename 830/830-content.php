@@ -46,7 +46,7 @@
 											</label>
 										</div>
 									</td>
-										<td style="width: 48%"><label for="label01">BYU-I</label></td>
+										<td style="width: 48%"><label for="label01" class>BYU-I</label></td>
 										<td style="width: 48%"><label for="label01">542584612548</label>
 									</td>
 								</tr>

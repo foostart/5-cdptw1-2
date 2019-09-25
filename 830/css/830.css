@@ -1,3 +1,9 @@
+label {
+  cursor: pointer;
+}
+label:hover {
+  color: #337ab7;
+}
 .type-830 .item {
   margin-left: 15px;
   margin-right: 15px;
@@ -12,9 +18,6 @@
 .type-830 .creatediv1 {
   margin-top: 5px;
   margin-bottom: 5px;
-}
-.type-830 .creatediv1 .item .panel .span12 .span13 .span14 .pointed {
-  cursor: pointer;
 }
 .type-830 .filterable {
   margin-top: 15px;

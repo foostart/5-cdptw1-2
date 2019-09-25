@@ -1,3 +1,9 @@
+a:hover {
+  color: #333;
+}
+a {
+  cursor: pointer;
+}
 .login .title-login {
   color: #73879C;
 }
@@ -47,12 +53,21 @@
   color: #73879C;
   cursor: pointer;
 }
+.login .title-login .login-footer p a:hover {
+  color: #333;
+}
+.login .title-login .login-footer p:hover {
+  color: #333;
+}
 .login .title-login .login-footer h3 {
   margin: 25px 0;
 }
 .login .title-login .login-footer h3 a.logo {
   text-decoration: none;
   color: #73879C;
+}
+.login .title-login .login-footer h3 .logo:hover {
+  color: #333;
 }
 .login .title-login .login-footer .footer {
   margin: 0;

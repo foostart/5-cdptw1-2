@@ -39,22 +39,21 @@
 
 
                                     <div class="functions">
-                                        <form action="#" name="flogin" method="post" class="col-md-4 col-sm-3 col-xs-1"></form>
-                                            <div>
-                                                <a href="#" id="btn-login">Login</a>
+                                        <form action="#" name="flogin" method="post" class="col-md-4 col-sm-3 col-xs-1 login"></form>
+                                            <div class="login1">
+                                                <a id="btn-login">Login</a>
                                             </div><br>
-                                        
-                                            <div>
-                                                <a href="#" id="link-lostpass">Lost your password?</a>
+                                            <div class="login1">
+                                                <a id="link-lostpass text" style="text-decoration: none;">Lost your password?</a>
                                             </div>
                                         <form action="#" name="flogin" method="post" class="col-md-4 col-sm-3 col-xs-1"></form>
 
                                     </div>
                                     <hr style="border-top: 1px solid #eee;">
                                     <div class="login-footer">
-                                        <p>New to site? <a href="#">Create Account</a></p>
+                                        <p class="text">New to site? <a class="text2">Create Account</a></p>
                                         <h3>
-                                            <a href="index_dashboard2.php" class="logo">
+                                            <a href="#" class="logo">
                                                 <i class="fa fa-paw"></i> Gentelella Alela!
                                             </a>
                                         </h3>
