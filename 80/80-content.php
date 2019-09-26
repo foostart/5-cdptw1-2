@@ -1,13 +1,13 @@
 <body>
     <div class="mod-custom-10">
          <div class="container">
-        <div class="row vc_row wpb_row vc_row-fluid vc_custom_1455287231149 vc_row-has-fill"
+        <div class="row vc_row-has-fill"
             style="padding-top: 30px; padding-bottom: 60px;">
             <div class="wpb_column vc_column_container col-sm-12" style="transform: translate3d(0px, 0px, 0px);">
                 <div class="vc_column-inner ">
                     <div class="wpb_wrapper">
-                        <div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1455193632714 vc_row-has-fill">
-                            <div class="wpb_column vc_column_container col-sm-3">
+                        <div class="vc_row-has-fill">
+                            <div class="col-sm-3">
                                 <div class="vc_column-inner ">
                                     <div class="wpb_wrapper"></div>
                                 </div>
@@ -15,22 +15,22 @@
                         </div>
                     </div>
                 </div>
-                <div class="wpb_column vc_column_container col-sm-6">
+                <div class="col-sm-6">
                     <div class="vc_column-inner ">
                         <div class="wpb_wrapper">
-                            <div class="uvc-heading ult-adjust-bottom-margin ultimate-heading-398579877825bbaa uvc-1373 "
+                            <div class="uvc-heading ultimate-heading-398579877825bbaa uvc-1373 "
                                 data-hspacer="no_spacer" data-halign="center" style="text-align:center">
-                                <div class="uvc-heading-spacer no_spacer" style="top"></div>
-                                <div class="uvc-main-heading ult-responsive"
+                                <div class="" ></div>
+                                <div class="uvc-main-heading"
                                     data-ultimate-target=".uvc-heading.ultimate-heading-398579877825bbaa h2"
                                     data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:36px;&quot;,&quot;line-height&quot;:&quot;&quot;}">
-                                    <h2 style="font-family:'Raleway';font-weight:800;color:#333333;margin-bottom:30px;">
+                                    <h2 style="font-family:'Raleway';">
                                         What You Get from Sensei?</h2>
                                 </div>
-                                <div class="uvc-sub-heading ult-responsive"
+                                <div class="ult-responsive"
                                     data-ultimate-target=".uvc-heading.ultimate-heading-398579877825bbaa .uvc-sub-heading "
                                     data-responsive-json-new="{&quot;font-size&quot;:&quot;desktop:16px;&quot;,&quot;line-height&quot;:&quot;desktop:25px;&quot;}"
-                                    style="font-family:'Raleway';font-weight:300;color:#666666;">
+                                    style="font-family:'Raleway';">
                                     <p style="text-align: center;">With the Sensei plugin you can create courses, write
                                         lessons, and add quizzes. Set lesson and course pre-requisites, allow user
                                         registration and charge.</p>
@@ -38,15 +38,15 @@
                             </div>
                         </div>
                     </div>
-                    <div class="wpb_column vc_column_container col-sm-3">
+                    <div class=" col-sm-3">
                         <div class="vc_column-inner ">
                             <div class="wpb_wrapper"></div>
                         </div>
                     </div>
                 </div>
 
-                <div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1451053221961">
-                    <div class="sc-service-box wpb_column vc_column_container col-sm-3 vc_col-has-fill">
+                <div class="vc_row wpb_row vc_inner vc_row-fluid ">
+                    <div class="sc-service-box col-sm-3">
                         <div class="">
                             <div class="wpb_wrapper">
                                 <div class="ult-just-icon-wrapper  ">
@@ -154,10 +154,6 @@
                                             </div>
                                         </div>
                                     </div>
-
-
-
-
                                 </div>
                             </div>
                         </div>
