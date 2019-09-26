@@ -44,19 +44,19 @@ a {
 .login .title-login .login-footer {
   text-align: center;
 }
-.login .title-login .login-footer p {
+.login .title-login .login-footer .text {
   margin-top: 30px;
   cursor: pointer;
 }
-.login .title-login .login-footer p a {
+.login .title-login .login-footer .text a {
   text-decoration: none;
   color: #73879C;
   cursor: pointer;
 }
-.login .title-login .login-footer p a:hover {
+.login .title-login .login-footer .text a:hover {
   color: #333;
 }
-.login .title-login .login-footer p:hover {
+.login .title-login .login-footer .text:hover {
   color: #333;
 }
 .login .title-login .login-footer h3 {

@@ -26,18 +26,11 @@
                                             <input type="username" name="username" class="form-control"
                                                 placeholder="Username" maxlength="20">
                                         </div>
-
-
                                         <div>
                                             <input type="password" name="password" class="form-control"
                                                 placeholder="Password" maxlength="20">
                                         </div></form>
                                     <form action="#" name="flogin" method="post" class="col-md-4 col-sm-3 col-xs-1"></form>
-
-
-
-
-
                                     <div class="functions">
                                         <form action="#" name="flogin" method="post" class="col-md-4 col-sm-3 col-xs-1 login"></form>
                                             <div class="login1">

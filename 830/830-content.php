@@ -19,8 +19,8 @@
 								<th>
 									<div class="checkbox radio-margin">
 										<label>
-											<input type="checkbox" id="select_all">
-											<span class="cr"><i class="cr-icon fa fa-check"></i></span>
+                                                                                    <input type="checkbox" id="select_all" >
+											<span class="cr"><i class="cr-icon fa fa-check" title="Check all"></i></span>
 										</label>
 									</div>
 								</th>
